@@ -1,36 +1,67 @@
-# Virtual environment
+# =========================
+# Virtual Environment
+# =========================
 venv/
 .venv/
 
-# Python cache
+# =========================
+# Python Cache
+# =========================
 __pycache__/
 *.py[cod]
+*$py.class
 
-# Environment variables / secrets
+# =========================
+# Environment Variables / Secrets
+# =========================
 .env
 .env.*
+!.env.example
 
-# Streamlit
+# =========================
+# Streamlit Secrets
+# =========================
 .streamlit/secrets.toml
 
-# OS files
-.DS_Store
-
-# IDE
+# =========================
+# IDE / Editor
+# =========================
 .vscode/
 .idea/
 
-# Logs
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# Logs / Temporary Files
+# =========================
 *.log
+*.tmp
 
-# Evaluation outputs
-data/evaluation_results.csv
+# =========================
+# ML / Hugging Face Cache
+# =========================
+.cache/
+huggingface/
+.huggingface/
 
-# Large/local model files
+# Model files
 *.bin
 *.pt
 *.pth
+*.ckpt
 *.safetensors
 
-# Temporary files
-*.tmp
+# =========================
+# Testing / Development Files
+# =========================
+test_*.py
+test_resume.pdf
+generate_test_resumes.py
+
+# =========================
+# Evaluation Output
+# =========================
+data/evaluation_results.csv
