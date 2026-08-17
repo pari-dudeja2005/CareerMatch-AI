@@ -1,0 +1,332 @@
+job_title,skill,weight
+Software Development Engineer,Data Structures,5
+Software Development Engineer,Algorithms,5
+Software Development Engineer,Java,4
+Software Development Engineer,Python,4
+Software Development Engineer,Object Oriented Programming,5
+Software Development Engineer,Database Management Systems,4
+Software Development Engineer,SQL,4
+Software Development Engineer,Operating Systems,3
+Software Development Engineer,Computer Networks,3
+Software Development Engineer,Git,2
+Software Development Engineer,Docker,2
+Software Development Engineer,AWS,2
+Backend Software Engineer,Python,5
+Backend Software Engineer,Java,5
+Backend Software Engineer,REST API,5
+Backend Software Engineer,SQL,4
+Backend Software Engineer,Database Management Systems,4
+Backend Software Engineer,FastAPI,4
+Backend Software Engineer,Flask,4
+Backend Software Engineer,Spring Boot,4
+Backend Software Engineer,Docker,3
+Backend Software Engineer,AWS,3
+Backend Software Engineer,Git,2
+Java Software Engineer,Java,5
+Java Software Engineer,Object Oriented Programming,5
+Java Software Engineer,Data Structures,4
+Java Software Engineer,Algorithms,4
+Java Software Engineer,Spring Boot,5
+Java Software Engineer,REST API,4
+Java Software Engineer,SQL,4
+Java Software Engineer,Database Management Systems,4
+Java Software Engineer,Git,2
+Python Software Engineer,Python,5
+Python Software Engineer,Object Oriented Programming,4
+Python Software Engineer,Data Structures,3
+Python Software Engineer,Algorithms,3
+Python Software Engineer,FastAPI,4
+Python Software Engineer,Flask,4
+Python Software Engineer,REST API,4
+Python Software Engineer,SQL,4
+Python Software Engineer,Docker,3
+Python Software Engineer,AWS,2
+Full Stack Developer,JavaScript,5
+Full Stack Developer,TypeScript,4
+Full Stack Developer,React.js,5
+Full Stack Developer,HTML,3
+Full Stack Developer,CSS,3
+Full Stack Developer,Node.js,4
+Full Stack Developer,REST API,4
+Full Stack Developer,SQL,3
+Full Stack Developer,MongoDB,3
+Full Stack Developer,Git,2
+Frontend Engineer,JavaScript,5
+Frontend Engineer,TypeScript,5
+Frontend Engineer,React.js,5
+Frontend Engineer,HTML,4
+Frontend Engineer,CSS,4
+Frontend Engineer,REST API,3
+Frontend Engineer,Git,2
+Data Scientist,Python,5
+Data Scientist,Statistics,5
+Data Scientist,Machine Learning,5
+Data Scientist,Scikit-learn,5
+Data Scientist,Pandas,4
+Data Scientist,NumPy,4
+Data Scientist,SQL,4
+Data Scientist,Data Analysis,4
+Data Scientist,Feature Engineering,4
+Data Scientist,Model Evaluation,4
+Data Scientist,PyTorch,3
+Data Scientist,TensorFlow,3
+Data Analyst,SQL,5
+Data Analyst,Python,4
+Data Analyst,Data Analysis,5
+Data Analyst,Pandas,4
+Data Analyst,NumPy,3
+Data Analyst,Statistics,4
+Data Analyst,Power BI,4
+Data Analyst,Tableau,4
+Data Analyst,Excel,3
+Machine Learning Engineer,Python,5
+Machine Learning Engineer,Machine Learning,5
+Machine Learning Engineer,Deep Learning,5
+Machine Learning Engineer,Scikit-learn,5
+Machine Learning Engineer,PyTorch,5
+Machine Learning Engineer,TensorFlow,5
+Machine Learning Engineer,Pandas,4
+Machine Learning Engineer,NumPy,4
+Machine Learning Engineer,Feature Engineering,4
+Machine Learning Engineer,Model Evaluation,4
+Machine Learning Engineer,Supervised Learning,4
+Machine Learning Engineer,Unsupervised Learning,4
+Machine Learning Engineer,Docker,3
+Machine Learning Engineer,AWS,3
+Machine Learning Engineer,Git,2
+AI Engineer,Python,5
+AI Engineer,Machine Learning,5
+AI Engineer,Deep Learning,5
+AI Engineer,Natural Language Processing,5
+AI Engineer,Generative AI,5
+AI Engineer,Large Language Models,5
+AI Engineer,PyTorch,4
+AI Engineer,TensorFlow,4
+AI Engineer,LangChain,4
+AI Engineer,Retrieval Augmented Generation,5
+AI Engineer,Embeddings,4
+AI Engineer,Vector Databases,4
+AI Engineer,Model Evaluation,4
+AI Engineer,FastAPI,3
+AI Engineer,Docker,3
+Generative AI Engineer,Python,5
+Generative AI Engineer,Generative AI,5
+Generative AI Engineer,Large Language Models,5
+Generative AI Engineer,Natural Language Processing,4
+Generative AI Engineer,Retrieval Augmented Generation,5
+Generative AI Engineer,Embeddings,5
+Generative AI Engineer,Vector Databases,5
+Generative AI Engineer,LangChain,4
+Generative AI Engineer,Prompt Engineering,4
+Generative AI Engineer,Hugging Face,4
+Generative AI Engineer,Transformers,4
+Generative AI Engineer,Model Evaluation,4
+Generative AI Engineer,PyTorch,3
+Generative AI Engineer,FastAPI,3
+Generative AI Engineer,Docker,3
+NLP Engineer,Natural Language Processing,5
+NLP Engineer,Python,5
+NLP Engineer,Deep Learning,5
+NLP Engineer,PyTorch,4
+NLP Engineer,Transformers,5
+NLP Engineer,Hugging Face,5
+NLP Engineer,Large Language Models,4
+NLP Engineer,Embeddings,5
+NLP Engineer,Semantic Similarity,4
+NLP Engineer,Vector Databases,3
+NLP Engineer,Generative AI,4
+Computer Vision Engineer,Computer Vision,5
+Computer Vision Engineer,Python,5
+Computer Vision Engineer,Deep Learning,5
+Computer Vision Engineer,PyTorch,5
+Computer Vision Engineer,TensorFlow,4
+Computer Vision Engineer,OpenCV,5
+Computer Vision Engineer,CNN,5
+Computer Vision Engineer,Image Processing,4
+Computer Vision Engineer,NumPy,4
+Computer Vision Engineer,Model Evaluation,4
+Data Engineer,Python,5
+Data Engineer,SQL,5
+Data Engineer,ETL,5
+Data Engineer,Data Engineering,5
+Data Engineer,Apache Spark,5
+Data Engineer,PySpark,5
+Data Engineer,HDFS,4
+Data Engineer,Apache NiFi,4
+Data Engineer,Data Pipelines,5
+Data Engineer,AWS,3
+Data Engineer,Docker,3
+Data Engineer,Linux,3
+Cloud Data Engineer,Python,4
+Cloud Data Engineer,SQL,5
+Cloud Data Engineer,AWS,5
+Cloud Data Engineer,S3,5
+Cloud Data Engineer,ETL,5
+Cloud Data Engineer,Data Engineering,5
+Cloud Data Engineer,PySpark,5
+Cloud Data Engineer,Apache Spark,5
+Cloud Data Engineer,Data Pipelines,5
+Cloud Data Engineer,Docker,3
+Cloud Data Engineer,Linux,3
+MLOps Engineer,Python,5
+MLOps Engineer,Machine Learning,5
+MLOps Engineer,Docker,5
+MLOps Engineer,Kubernetes,5
+MLOps Engineer,CI/CD,5
+MLOps Engineer,AWS,4
+MLOps Engineer,MLflow,5
+MLOps Engineer,Model Deployment,5
+MLOps Engineer,Model Monitoring,5
+MLOps Engineer,Git,3
+DevOps Engineer,Linux,5
+DevOps Engineer,Docker,5
+DevOps Engineer,Kubernetes,5
+DevOps Engineer,CI/CD,5
+DevOps Engineer,Jenkins,4
+DevOps Engineer,AWS,5
+DevOps Engineer,Terraform,4
+DevOps Engineer,Git,3
+DevOps Engineer,Python,3
+Cloud Engineer,AWS,5
+Cloud Engineer,Azure,5
+Cloud Engineer,GCP,5
+Cloud Engineer,Linux,4
+Cloud Engineer,Docker,4
+Cloud Engineer,Kubernetes,5
+Cloud Engineer,Terraform,5
+Cloud Engineer,IAM,4
+Cloud Engineer,Networking,4
+Cloud Engineer,Git,2
+Site Reliability Engineer,Linux,5
+Site Reliability Engineer,Kubernetes,5
+Site Reliability Engineer,Docker,4
+Site Reliability Engineer,AWS,5
+Site Reliability Engineer,Monitoring,5
+Site Reliability Engineer,Observability,5
+Site Reliability Engineer,CI/CD,4
+Site Reliability Engineer,Terraform,4
+Site Reliability Engineer,Python,3
+Cloud Security Engineer,Cloud Security,5
+Cloud Security Engineer,AWS,5
+Cloud Security Engineer,IAM,5
+Cloud Security Engineer,Linux,4
+Cloud Security Engineer,Kubernetes,4
+Cloud Security Engineer,Docker,3
+Cloud Security Engineer,Terraform,4
+Cloud Security Engineer,Networking,4
+Cybersecurity Analyst,Cybersecurity,5
+Cybersecurity Analyst,SIEM,5
+Cybersecurity Analyst,Incident Response,5
+Cybersecurity Analyst,Vulnerability Assessment,5
+Cybersecurity Analyst,IDS IPS,5
+Cybersecurity Analyst,Firewalls,5
+Cybersecurity Analyst,Network Security,5
+Cybersecurity Analyst,Linux,3
+Cybersecurity Analyst,Python,2
+Cybersecurity Analyst,AWS,2
+Network Security Engineer,Network Security,5
+Network Security Engineer,TCP IP,5
+Network Security Engineer,Firewalls,5
+Network Security Engineer,VPN,5
+Network Security Engineer,IDS IPS,5
+Network Security Engineer,Routing,4
+Network Security Engineer,Switching,4
+Network Security Engineer,Linux,3
+Network Security Engineer,Python,2
+QA Automation Engineer,Test Automation,5
+QA Automation Engineer,Selenium,5
+QA Automation Engineer,Playwright,5
+QA Automation Engineer,API Testing,5
+QA Automation Engineer,Python,4
+QA Automation Engineer,Java,4
+QA Automation Engineer,SQL,3
+QA Automation Engineer,Git,2
+Software Test Engineer,Software Testing,5
+Software Test Engineer,Test Automation,5
+Software Test Engineer,Java,4
+Software Test Engineer,Python,4
+Software Test Engineer,Selenium,4
+Software Test Engineer,API Testing,5
+Software Test Engineer,SQL,3
+Software Test Engineer,Postman,4
+Technical Consultant,Technical Consulting,5
+Technical Consultant,Python,3
+Technical Consultant,Java,3
+Technical Consultant,SQL,4
+Technical Consultant,Cloud Computing,4
+Technical Consultant,REST API,4
+Technical Consultant,System Integration,5
+Technical Consultant,Requirements Gathering,5
+Technical Consultant,Solution Design,5
+Technical Consultant,Communication,4
+Technical Consultant,Stakeholder Management,4
+Solutions Engineer,Solution Architecture,5
+Solutions Engineer,REST API,5
+Solutions Engineer,Cloud Computing,4
+Solutions Engineer,Python,3
+Solutions Engineer,Java,3
+Solutions Engineer,SQL,3
+Solutions Engineer,System Integration,5
+Solutions Engineer,Technical Communication,5
+Solutions Engineer,Proof of Concept,5
+Technical Business Analyst,Requirements Gathering,5
+Technical Business Analyst,SQL,4
+Technical Business Analyst,Agile,4
+Technical Business Analyst,SDLC,5
+Technical Business Analyst,System Analysis,5
+Technical Business Analyst,Technical Documentation,4
+Technical Business Analyst,Communication,5
+AI Solutions Consultant,Generative AI,5
+AI Solutions Consultant,Large Language Models,5
+AI Solutions Consultant,Python,4
+AI Solutions Consultant,Retrieval Augmented Generation,5
+AI Solutions Consultant,Machine Learning,4
+AI Solutions Consultant,Prompt Engineering,4
+AI Solutions Consultant,Vector Databases,4
+AI Solutions Consultant,Cloud Computing,3
+AI Solutions Consultant,Solution Architecture,5
+AI Solutions Consultant,Stakeholder Management,5
+Product Engineer,Python,4
+Product Engineer,Java,4
+Product Engineer,JavaScript,4
+Product Engineer,Data Structures,4
+Product Engineer,Algorithms,4
+Product Engineer,Object Oriented Programming,4
+Product Engineer,SQL,3
+Product Engineer,REST API,4
+Product Engineer,Docker,3
+Product Engineer,Git,3
+Data Platform Engineer,Python,5
+Data Platform Engineer,SQL,5
+Data Platform Engineer,Data Engineering,5
+Data Platform Engineer,Apache Spark,5
+Data Platform Engineer,PySpark,5
+Data Platform Engineer,ETL,5
+Data Platform Engineer,Data Pipelines,5
+Data Platform Engineer,AWS,4
+Data Platform Engineer,Docker,3
+Data Platform Engineer,Linux,3
+Embedded Software Engineer,C,5
+Embedded Software Engineer,C++,5
+Embedded Software Engineer,Embedded Linux,5
+Embedded Software Engineer,Firmware,5
+Embedded Software Engineer,Operating Systems,4
+Embedded Software Engineer,Computer Architecture,4
+Embedded Software Engineer,Git,3
+IoT Software Engineer,Python,4
+IoT Software Engineer,Java,4
+IoT Software Engineer,IoT,5
+IoT Software Engineer,MQTT,5
+IoT Software Engineer,REST API,4
+IoT Software Engineer,AWS,4
+IoT Software Engineer,Linux,4
+IoT Software Engineer,Networking,4
+IoT Software Engineer,Edge Computing,5
+Blockchain Developer,Blockchain,5
+Blockchain Developer,Solidity,5
+Blockchain Developer,Ethereum,5
+Blockchain Developer,Smart Contracts,5
+Blockchain Developer,Web3,5
+Blockchain Developer,Cryptography,4
+Blockchain Developer,JavaScript,4
+Blockchain Developer,Python,3

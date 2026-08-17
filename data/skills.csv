@@ -1,0 +1,110 @@
+skill,category,subcategory,aliases,related_skills
+Python,Programming,Programming Language,python|py,pandas|numpy|scikit-learn|pytorch
+Java,Programming,Programming Language,java,spring boot|maven
+C++,Programming,Programming Language,c++|cpp,algorithms|data structures
+C,Programming,Programming Language,c language|c programming,embedded systems
+JavaScript,Programming,Programming Language,javascript|js,react|node.js|express.js
+TypeScript,Programming,Programming Language,typescript|ts,angular|react|node.js
+SQL,Database,Query Language,sql,mysql|postgresql|oracle database|data analysis
+MySQL,Database,Relational Database,mysql,sql|database management systems
+PostgreSQL,Database,Relational Database,postgres|postgresql,sql
+MongoDB,Database,NoSQL Database,mongodb|mongo db,node.js
+Redis,Database,In-Memory Database,redis,caching
+Oracle Database,Database,Relational Database,oracle|oracle db,sql
+Pandas,Data Science,Data Manipulation,pandas|pd,python|numpy|data analysis|machine learning
+NumPy,Data Science,Numerical Computing,numpy|np,python|pandas|scipy|machine learning
+SciPy,Data Science,Scientific Computing,scipy,numpy|python|statistics
+Matplotlib,Data Science,Data Visualization,matplotlib,python|pandas|numpy
+Seaborn,Data Science,Data Visualization,seaborn,python|pandas|matplotlib
+Plotly,Data Science,Data Visualization,plotly,python|pandas|data visualization
+Power BI,Analytics,Business Intelligence,powerbi|power bi,sql|excel|data analysis
+Tableau,Analytics,Business Intelligence,tableau,sql|excel|data analysis
+Excel,Analytics,Spreadsheet,microsoft excel|ms excel|excel,power bi|data analysis|statistics
+Statistics,Data Science,Statistics,statistics|statistical analysis,data analysis|machine learning
+Probability,Data Science,Mathematics,probability|probability theory,statistics|machine learning
+Data Analysis,Analytics,Data Analysis,data analysis|data analytics,python|pandas|sql|excel
+Data Visualization,Analytics,Visualization,data visualization|data visualisation,power bi|tableau|matplotlib
+Machine Learning,Machine Learning,ML,machine learning|ml,python|pandas|numpy|scikit-learn
+Supervised Learning,Machine Learning,Learning Paradigm,supervised learning,machine learning|scikit-learn
+Unsupervised Learning,Machine Learning,Learning Paradigm,unsupervised learning,machine learning|clustering
+Deep Learning,Machine Learning,Deep Learning,deep learning|dl,pytorch|tensorflow|keras
+Natural Language Processing,Machine Learning,NLP,natural language processing|nlp,transformers|hugging face|llm
+Computer Vision,Machine Learning,Computer Vision,computer vision|cv,opencv|pytorch|tensorflow
+Reinforcement Learning,Machine Learning,Learning Paradigm,reinforcement learning,deep learning
+Scikit-learn,Machine Learning,ML Framework,scikit-learn|scikit learn|sklearn,python|machine learning|pandas|numpy
+PyTorch,Machine Learning,Deep Learning Framework,pytorch|torch,python|deep learning|computer vision|nlp
+TensorFlow,Machine Learning,Deep Learning Framework,tensorflow|tf,python|deep learning
+Keras,Machine Learning,Deep Learning Framework,keras,tensorflow|python|deep learning
+OpenCV,Computer Vision,Computer Vision Library,opencv|open cv,python|computer vision
+XGBoost,Machine Learning,ML Algorithm,xgboost,machine learning|python|pandas
+LightGBM,Machine Learning,ML Algorithm,lightgbm,machine learning|python
+CatBoost,Machine Learning,ML Algorithm,catboost,machine learning|python
+Random Forest,Machine Learning,ML Algorithm,random forest,scikit-learn|machine learning
+Logistic Regression,Machine Learning,ML Algorithm,logistic regression,scikit-learn|machine learning
+Linear Regression,Machine Learning,ML Algorithm,linear regression,scikit-learn|statistics
+K-Means,Machine Learning,Clustering,k means|k-means,unsupervised learning|scikit-learn
+Feature Engineering,Machine Learning,ML Workflow,feature engineering,machine learning|pandas|scikit-learn
+Model Evaluation,Machine Learning,ML Workflow,model evaluation,machine learning|scikit-learn
+Generative AI,Generative AI,GenAI,generative ai|gen ai|genai,llm|transformers|rag
+Large Language Models,Generative AI,LLM,large language model|large language models|llm|llms,generative ai|transformers|nlp
+Transformers,Generative AI,NLP Architecture,transformers|transformer models,llm|hugging face|nlp
+Retrieval Augmented Generation,Generative AI,RAG,retrieval augmented generation|retrieval-augmented generation|rag,llm|vector databases|embeddings
+Prompt Engineering,Generative AI,LLM Applications,prompt engineering,llm|generative ai
+LangChain,Generative AI,LLM Framework,langchain,llm|rag|generative ai
+Hugging Face,Generative AI,AI Platform,hugging face|huggingface,transformers|nlp|pytorch
+FAISS,Generative AI,Vector Search,faiss,embeddings|vector databases|rag
+Vector Databases,Generative AI,Vector Search,vector database|vector databases,faiss|rag|embeddings
+Embeddings,Generative AI,Representation Learning,embeddings|vector embeddings,transformers|rag|faiss
+HTML,Web Development,Frontend,html|html5,css|javascript
+CSS,Web Development,Frontend,css|css3,html|javascript
+React,Web Development,Frontend,react|react.js|reactjs,javascript|typescript
+Angular,Web Development,Frontend,angular|angular.js,typescript|javascript
+Vue,Web Development,Frontend,vue|vue.js,javascript|typescript
+Node.js,Web Development,Backend,node.js|nodejs|node js,javascript|express.js
+Express.js,Web Development,Backend,express.js|expressjs|express js,node.js|javascript
+FastAPI,Backend,Python Framework,fastapi,python|rest api
+Flask,Backend,Python Framework,flask,python|rest api
+Spring Boot,Backend,Java Framework,spring boot,java|rest api|microservices
+REST API,Backend,API Architecture,rest api|restful api|rest apis,http|fastapi|flask
+GraphQL,Backend,API Architecture,graphql,api|node.js
+Microservices,Backend,Architecture,microservices|microservice,docker|kubernetes|spring boot
+AWS,Cloud,Cloud Platform,aws|amazon web services,ec2|s3|docker
+AWS EC2,Cloud,Compute,aws ec2|amazon ec2,aws
+AWS S3,Cloud,Storage,aws s3|amazon s3,aws
+Azure,Cloud,Cloud Platform,azure|microsoft azure,cloud computing
+Google Cloud,Cloud,Cloud Platform,gcp|google cloud,cloud computing
+Cloud Computing,Cloud,Cloud Fundamentals,cloud computing,aws|azure|google cloud
+Docker,DevOps,Containerization,docker,containers|kubernetes|aws
+Kubernetes,DevOps,Container Orchestration,kubernetes|k8s,docker|cloud
+Jenkins,DevOps,CI/CD,jenkins,ci/cd|docker
+Terraform,DevOps,Infrastructure as Code,terraform,aws|azure|cloud
+CI/CD,DevOps,DevOps Practice,ci/cd|continuous integration|continuous deployment,jenkins|github actions
+Linux,Operating Systems,OS,linux|linux operating system,bash|shell scripting
+Bash,Programming,Scripting,bash|bash scripting,linux|shell scripting
+Apache Spark,Data Engineering,Big Data,apache spark|spark,hadoop|pyspark
+PySpark,Data Engineering,Big Data,pyspark,spark|python|hadoop
+Hadoop,Data Engineering,Big Data,hadoop,hdfs|spark
+HDFS,Data Engineering,Distributed Storage,hdfs|hadoop,hadoop|big data
+Apache NiFi,Data Engineering,ETL,apache nifi|nifi,etl|data pipelines
+ETL,Data Engineering,Data Pipeline,etl|etl pipeline|etl pipelines,apache nifi|airflow|data engineering
+Airflow,Data Engineering,Workflow Orchestration,airflow|apache airflow,etl|data pipelines
+Data Engineering,Data Engineering,Data Infrastructure,data engineering,etl|sql|spark|airflow
+Data Pipelines,Data Engineering,Pipeline Architecture,data pipeline|data pipelines,etl|airflow|nifi
+Git,Tools,Version Control,git,github|gitlab
+GitHub,Tools,Version Control,github,git|ci/cd
+GitLab,Tools,Version Control,gitlab,git|ci/cd
+Jira,Tools,Project Management,jira,agile|scrum
+Postman,Tools,API Testing,postman,rest api|api testing
+Data Structures,Computer Science,DSA,data structures,algorithms|java|python
+Algorithms,Computer Science,DSA,algorithms,data structures|competitive programming
+Data Structures and Algorithms,Computer Science,DSA,data structures and algorithms|dsa,data structures|algorithms
+Object Oriented Programming,Computer Science,OOP,object oriented programming|object-oriented programming|oop,java|python
+Database Management Systems,Computer Science,DBMS,database management systems|database management system|dbms,sql|mysql|postgresql
+Operating Systems,Computer Science,OS,operating systems|operating system,linux|process management
+Computer Networks,Computer Science,Networking,computer networks|computer network,networking|tcp/ip
+Software Engineering,Software Engineering,Development,software engineering|software development,git|testing|agile
+Unit Testing,Software Engineering,Testing,unit testing|unit tests,pytest|junit
+Test Automation,Software Engineering,Testing,test automation|automated testing,selenium|pytest
+Selenium,Software Engineering,Testing,selenium|selenium webdriver,test automation
+Agile,Software Engineering,Methodology,agile|agile methodology,scrum|jira
+Scrum,Software Engineering,Methodology,scrum,agile|jira
